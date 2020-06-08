@@ -1,0 +1,20 @@
+p {
+  color: red;
+}
+
+.box {
+  width: 400px;
+  height: 300px;
+  border: 20px solid green;
+}
+
+#my_table {
+  border: 0.25em solid blue;
+  padding: 1.5em;
+  background: #849984;
+}
+
+th, td {
+   border: 1px solid black;
+   padding: 0.5em;
+}
